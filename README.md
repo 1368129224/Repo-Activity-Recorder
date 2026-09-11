@@ -14,6 +14,23 @@
 
 ![test3](generated/your_repo_name_status.svg)
 
+------
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+
+------
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github">
+</div>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&row=1)
+
+------
+
 ## 项目简介
  
 **GitHub Repo Activity Recorder** 能够自动统计和可视化你的 GitHub 仓库活跃度和贡献数据，并以 SVG 动态图片的形式展示。
