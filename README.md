@@ -6,6 +6,12 @@
 
 ![Animation](generated/languages.svg)
 
+![test1](generated/overview.svg)
+
+![test2](generated/languages.svg)
+
+![test3](generated/your_repo_name_status.svg)
+
 ## 项目简介
  
 **GitHub Repo Activity Recorder** 能够自动统计和可视化你的 GitHub 仓库活跃度和贡献数据，并以 SVG 动态图片的形式展示。
