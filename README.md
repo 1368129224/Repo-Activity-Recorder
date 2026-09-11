@@ -1,33 +1,11 @@
 # GitHub Repo Activity Recorder
 
-![Animation](generated/overview.svg)
+![overview](generated/overview.svg)
 
-![Animation](generated/3089464667__default-app_status.svg)
-
-![Animation](generated/languages.svg)
-
-------
-
-![test1](generated/overview.svg)
-
-![test2](generated/languages.svg)
+![languages](generated/languages.svg)
 
 ![test3](generated/your_repo_name_status.svg)
 
-------
-
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
-
-------
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github">
-</div>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&row=1)
 
 ------
 
