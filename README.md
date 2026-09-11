@@ -6,6 +6,8 @@
 
 ![Animation](generated/languages.svg)
 
+------
+
 ![test1](generated/overview.svg)
 
 ![test2](generated/languages.svg)
